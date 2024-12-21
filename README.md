@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Competitive Programming**
 
-- 🌱 I’m currently learning **HTML,CSS**
+- 🌱 I’m currently learning **Django,Javascript**
 
 - 👯 I’m looking to collaborate on **Github**
 
